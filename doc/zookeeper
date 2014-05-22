@@ -1,0 +1,11 @@
+Hadoop权威指南-ZooKeeper:
+	guide
+
+ZooKeeper官网
+    tutorial
+
+分布式助手ZooKeeper
+    [4] dist.configsync:	http://qindongliang1922.iteye.com/blog/1985661
+    [5] dist.ha:					http://qindongliang1922.iteye.com/blog/1985787
+    [7] dist.lock:				http://qindongliang1922.iteye.com/blog/2028241
+    [8] dist.queue:			http://qindongliang1922.iteye.com/blog/2030697
